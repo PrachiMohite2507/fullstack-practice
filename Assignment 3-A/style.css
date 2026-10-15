@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #form{
     height: 500px;
     width:auto ;
@@ -11,4 +12,19 @@
     height: 50px;
     width: 80px;
    margin-top: 20px;
+=======
+#form{
+    height: 500px;
+    width:auto ;
+    margin: 40px 40px 40px 40px ;
+    background-color: antiquewhite;
+    border:solid black;
+    
+}
+.click {
+    background-color:  greenyellow;
+    height: 50px;
+    width: 80px;
+   margin-top: 20px;
+>>>>>>> 3cf38b9534153b1b91e5f9c18f8e5b79ae022738
 }
